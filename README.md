@@ -1,6 +1,7 @@
 # picture_gallary_flask
 This is a full stack picture gallery website , using HTML5,CSS3,JAVASCRIPT,PYTHON,FLASK(framework of python),MONGODB
----FEATURES---
+
+            ---FEATURES---
 1. Authantication using flask and mongodb
 2. verification email sending (update soon)
 3. User can update their profile
